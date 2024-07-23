@@ -46,7 +46,7 @@ Improved the reliability and user experience of the OrangeHRM application.
 Enhanced understanding of manual testing processes and best practices.
 Challenges Faced:
 
-[Describe any challenges, e.g., environmental issues, understanding complex workflows, etc.]
+
 Lessons Learned:
 
 The importance of detailed requirement analysis before test case creation.
